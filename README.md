@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/postgres-basebackup-symlink">postgres-basebackup-symlink</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/postgres-basebackup-symlink"><strong>https://abraxaslabs.tech/research/postgres-basebackup-symlink</strong></a>
+</p>
+
 
 # postgres-basebackup-symlink
 
